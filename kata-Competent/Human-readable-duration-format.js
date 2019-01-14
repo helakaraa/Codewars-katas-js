@@ -1,3 +1,4 @@
+
 function formatDuration (seconds) {
 var time=[];
 var s=seconds/(3600*24*365);
